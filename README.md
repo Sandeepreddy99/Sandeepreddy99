@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me at linkedin.com/in/moram-sandeep-reddy-0a43351b5 
 - 💪 Skilled in Java,Springboot,Javascript,Html,Salesforce,Sql,Git
-- 🏏 Loves playing cricket
+- 🏏 Love playing cricket
 
 
 <!---
