@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sandeepreddy99
-- 🎗  Currently working in TCS as Asst System Engineer
+- 🎗  Currently working in INFOSYS as Systems Engineer
 - 👀 I’m interested in IT Industry
 - 🌱 I’m currently learning Web Technologies
 - 💞️ I’m looking to collaborate on ...
